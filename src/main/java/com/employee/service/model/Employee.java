@@ -1,4 +1,4 @@
-package com.example.employeeservice.model;
+package com.employee.service.model;
 
 import lombok.Getter;
 import lombok.Setter;
