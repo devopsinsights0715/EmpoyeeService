@@ -70,13 +70,13 @@
 <repository>
 <id>nexus</id>
 <name>releaserepo</name>
-<url>http://13.235.89.131:8081/repository/awsdevops-dec-release/</url>
+<url>http://13.235.89.131:8081/repository/awsdevops-release/</url>
 </repository>
 
 <snapshotRepository>
 <id>nexus</id>
 <name>snapshotrepo</name>
-<url>http://13.235.89.131:8081/repository/awsdevops-dec-snapshot/</url>
+<url>http://13.235.89.131:8081/repository/awsdevops-snapshot/</url>
 </snapshotRepository>
  
 </distributionManagement>
